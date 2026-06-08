@@ -6,7 +6,7 @@ authors:
   - Seghezzi, S.
 journal: PsyArXiv
 year: 2026
-type: research
+type: preprint
 status: under-review
 url: https://osf.io/preprints/psyarxiv/kas3f_v1
 ---
